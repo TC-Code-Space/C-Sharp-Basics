@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ArrayDemos/1.0.0": {
+        "runtime": {
+          "ArrayDemos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayDemos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\bin\Debug\net7.0\DateAndTimesDemos.exe
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\bin\Debug\net7.0\DateAndTimesDemos.deps.json
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\bin\Debug\net7.0\DateAndTimesDemos.runtimeconfig.json
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\bin\Debug\net7.0\DateAndTimesDemos.dll
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\bin\Debug\net7.0\DateAndTimesDemos.pdb
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\DateAndTimesDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\DateAndTimesDemos.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\DateAndTimesDemos.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\DateAndTimesDemos.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\DateAndTimesDemos.dll
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\refint\DateAndTimesDemos.dll
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\DateAndTimesDemos.pdb
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\DateAndTimesDemos.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\DateAndTimesDemos\DateAndTimesDemos\obj\Debug\net7.0\ref\DateAndTimesDemos.dll

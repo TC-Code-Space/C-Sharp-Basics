@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\bin\Debug\net7.0\ArrayDemos.exe
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\bin\Debug\net7.0\ArrayDemos.deps.json
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\bin\Debug\net7.0\ArrayDemos.runtimeconfig.json
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\bin\Debug\net7.0\ArrayDemos.dll
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\bin\Debug\net7.0\ArrayDemos.pdb
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\ArrayDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\ArrayDemos.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\ArrayDemos.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\ArrayDemos.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\ArrayDemos.dll
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\refint\ArrayDemos.dll
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\ArrayDemos.pdb
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\ArrayDemos.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\ArrayDemos\ArrayDemos\obj\Debug\net7.0\ref\ArrayDemos.dll

@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\bin\Debug\net7.0\ListDemo.exe
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\bin\Debug\net7.0\ListDemo.deps.json
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\bin\Debug\net7.0\ListDemo.runtimeconfig.json
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\bin\Debug\net7.0\ListDemo.dll
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\bin\Debug\net7.0\ListDemo.pdb
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\ListDemo.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\ListDemo.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\ListDemo.dll
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\refint\ListDemo.dll
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\ListDemo.pdb
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\ListDemo.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\ListDemo\ListDemo\obj\Debug\net7.0\ref\ListDemo.dll

@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\bin\Debug\net7.0\Exercises2.exe
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\bin\Debug\net7.0\Exercises2.deps.json
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\bin\Debug\net7.0\Exercises2.runtimeconfig.json
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\bin\Debug\net7.0\Exercises2.dll
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\bin\Debug\net7.0\Exercises2.pdb
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\Exercises2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\Exercises2.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\Exercises2.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\Exercises2.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\Exercises2.dll
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\refint\Exercises2.dll
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\Exercises2.pdb
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\Exercises2.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\Exercises2\Exercises2\obj\Debug\net7.0\ref\Exercises2.dll

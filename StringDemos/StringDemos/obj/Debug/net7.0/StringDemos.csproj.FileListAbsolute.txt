@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\bin\Debug\net7.0\StringDemos.exe
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\bin\Debug\net7.0\StringDemos.deps.json
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\bin\Debug\net7.0\StringDemos.runtimeconfig.json
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\bin\Debug\net7.0\StringDemos.dll
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\bin\Debug\net7.0\StringDemos.pdb
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\StringDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\StringDemos.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\StringDemos.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\StringDemos.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\StringDemos.dll
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\refint\StringDemos.dll
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\StringDemos.pdb
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\StringDemos.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\StringDemos\StringDemos\obj\Debug\net7.0\ref\StringDemos.dll

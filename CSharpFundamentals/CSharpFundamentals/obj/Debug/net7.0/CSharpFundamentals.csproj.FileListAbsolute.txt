@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.exe
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.deps.json
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.runtimeconfig.json
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.dll
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.pdb
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.dll
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\refint\CSharpFundamentals.dll
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.pdb
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net7.0\ref\CSharpFundamentals.dll

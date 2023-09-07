@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\Iterations\Iterations\bin\Debug\net7.0\Iterations.exe
+C:\Users\tcrawford\source\repos\Iterations\Iterations\bin\Debug\net7.0\Iterations.deps.json
+C:\Users\tcrawford\source\repos\Iterations\Iterations\bin\Debug\net7.0\Iterations.runtimeconfig.json
+C:\Users\tcrawford\source\repos\Iterations\Iterations\bin\Debug\net7.0\Iterations.dll
+C:\Users\tcrawford\source\repos\Iterations\Iterations\bin\Debug\net7.0\Iterations.pdb
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\Iterations.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\Iterations.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\Iterations.dll
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\refint\Iterations.dll
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\Iterations.pdb
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\Iterations.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\Iterations\Iterations\obj\Debug\net7.0\ref\Iterations.dll

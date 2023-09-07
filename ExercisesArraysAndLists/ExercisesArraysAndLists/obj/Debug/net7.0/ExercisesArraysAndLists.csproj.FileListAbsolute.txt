@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\bin\Debug\net7.0\ExercisesArraysAndLists.exe
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\bin\Debug\net7.0\ExercisesArraysAndLists.deps.json
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\bin\Debug\net7.0\ExercisesArraysAndLists.runtimeconfig.json
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\bin\Debug\net7.0\ExercisesArraysAndLists.dll
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\bin\Debug\net7.0\ExercisesArraysAndLists.pdb
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\ExercisesArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\ExercisesArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\ExercisesArraysAndLists.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\ExercisesArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\ExercisesArraysAndLists.dll
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\refint\ExercisesArraysAndLists.dll
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\ExercisesArraysAndLists.pdb
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\ExercisesArraysAndLists.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\ExercisesArraysAndLists\ExercisesArraysAndLists\obj\Debug\net7.0\ref\ExercisesArraysAndLists.dll
